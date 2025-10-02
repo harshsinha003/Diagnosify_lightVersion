@@ -1,0 +1,22 @@
+{
+  "name": "disease-prediction-backend",
+  "version": "1.0.0",
+  "main": "server.js",
+  "type": "module",
+  "scripts": {
+    "start": "node server.js",
+    "dev": "nodemon server.js"
+  },
+  "keywords": ["disease-prediction", "health", "api"],
+  "author": "RishabhRaj43",
+  "license": "MIT",
+  "description": "Simple backend for disease prediction app",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "dotenv": "^16.4.5",
+    "express": "^4.21.0"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.7"
+  }
+}
