@@ -81,7 +81,7 @@ coverage.xml
 # Jupyter Notebook
 .ipynb_checkpoints
 
-# Machine Learning models (optional - you may want to track model.pkl)
+# Machine Learning models (optional - may want to track model.pkl)
 # model.pkl
 
 # Local database
