@@ -100,7 +100,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 👥 Team
 
-- **Developer**: [RishabhRaj43](https://github.com/RishabhRaj43)
+- **Developer**: [Harshvardhan Sinha](https://github.com/harshsinha003)
 
 ## 🙏 Acknowledgments
 
