@@ -54,10 +54,6 @@ A clean, simple disease prediction application that uses machine learning to ana
    npm run dev
    ```
 
-### Access the Application
-- **Frontend**: http://localhost:5173
-- **Python ML API**: http://localhost:2000
-
 ## 📁 Project Structure
 
 ```
